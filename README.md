@@ -34,12 +34,3 @@ The primary goal is to understand which model performs better in predicting the 
 ### Conclusion
 
 Based on the analysis, the [better-performing model] outperforms the other in terms of [specific metrics]. This suggests that [brief conclusion about the performance and suitability of the models].
-
-## How to Run
-
-To reproduce the results, follow these steps:
-
-1. Ensure you have all the necessary libraries installed:
-   ```bash
-   pip install numpy pandas scikit-learn matplotlib
-   ```
